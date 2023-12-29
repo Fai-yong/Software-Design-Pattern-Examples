@@ -10,7 +10,7 @@ The Decorator pattern allows for adding new functionalities to an existing objec
 
 Class diagram for Decorator pattern:
 
-![Decorator Class Diagram](decorator-class-diagram.png)
+![Decorator Class Diagram](https://github.com/Fai-yong/Software-Design-Pattern-Examples/blob/main/UML/Decoorator.png)
 
 ## Facade
 
@@ -20,7 +20,7 @@ The Facade pattern provides a simplified interface to a complex subsystem. By do
 
 Class diagram for Facade pattern:
 
-![Facade Class Diagram](facade-class-diagram.png)
+![Facade Class Diagram](https://github.com/Fai-yong/Software-Design-Pattern-Examples/blob/main/UML/Facade.png)
 
 ## Factory
 
@@ -30,7 +30,7 @@ The Factory pattern is a creational pattern that uses factory methods to deal wi
 
 Class diagram for Factory pattern:
 
-![Factory Class Diagram](factory-class-diagram.png)
+![Factory Class Diagram](https://github.com/Fai-yong/Software-Design-Pattern-Examples/blob/main/UML/Factory.png)
 
 ## Singleton
 
@@ -38,9 +38,6 @@ Introduction to the Singleton pattern:
 
 The Singleton pattern ensures that a class has only one instance and provides a global point of access to it. This is especially useful when exactly one object is needed to coordinate actions across the system, such as a configuration manager or a connection pool.
 
-Class diagram for Singleton pattern:
-
-![Singleton Class Diagram](singleton-class-diagram.png)
 
 ## State
 
@@ -50,4 +47,4 @@ The State pattern allows an object to alter its behavior when its internal state
 
 Class diagram for State pattern:
 
-![State Class Diagram](state-class-diagram.png)
+![State Class Diagram](https://github.com/Fai-yong/Software-Design-Pattern-Examples/blob/main/UML/State.png)
